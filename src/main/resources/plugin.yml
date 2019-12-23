@@ -1,0 +1,4 @@
+name: LanguagesChat
+version: ${project.version}
+main: com.demeng7215.languageschat.LanguagesChat
+depend: [Vault]
